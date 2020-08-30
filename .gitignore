@@ -1,0 +1,9 @@
+#ignores the following files during commit.
+
+.classpath
+.project
+
+#ignores the following directories during commit.
+
+node_modules/
+
