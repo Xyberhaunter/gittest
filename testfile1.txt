@@ -1,3 +1,5 @@
 testing git file 1.
 
 From master branch.testing merge.
+Update from dev branch. testing for merge conflict.
+
