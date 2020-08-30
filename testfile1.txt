@@ -1,1 +1,3 @@
 testing git file 1.
+
+From master branch.testing merge.
