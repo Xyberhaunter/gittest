@@ -1,6 +1,7 @@
 testing git file 2.
 
 
+testing stash, round 2.
 
-testing stash, round 3.
+
 
